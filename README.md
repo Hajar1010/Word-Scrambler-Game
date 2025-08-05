@@ -1,8 +1,20 @@
+## Word Scrambler (Anagram  Game)
+A fun Python game where players guess the original word from scrambled letters.
+---
+## Features
+- Randomly scrambles a word from a predefined list.
+- Tracks correct guesses.
+- Simple and addictive gameplay.
+---
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Hajar1010/word-scrambler.git
+   cd word-scrambler
+2. Run the game:
+    python main.py
+---
 
-## _ Word Scrambler Game _
-A simple Python terminal game that scrambles the letters of a random word and challenges the user to guess the original word.
-## 💡 Features
-- Randomly scrambles a word from a predefined list
-- Asks the user to guess the original word
-- Tracks score
-- Option to replay the game
+## Technologies Used
+Python 3
+   
