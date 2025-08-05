@@ -1,5 +1,7 @@
 ## Word Scrambler (Anagram  Game)
+
 A fun Python game where players guess the original word from scrambled letters.
+
 ---
 ## Features
 - Randomly scrambles a word from a predefined list.
