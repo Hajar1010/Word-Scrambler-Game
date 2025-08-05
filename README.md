@@ -8,15 +8,17 @@ A fun Python game where players guess the original word from scrambled letters.
 - Tracks correct guesses.
 - Simple and addictive gameplay.
 ---
+## Technologies Used
+Python 3
+---
 ## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/Hajar1010/word-scrambler.git
    cd word-scrambler
 2. Run the game:
-    python main.py
----
+ ```bash
+  python main.py
 
-## Technologies Used
-Python 3
+
    
